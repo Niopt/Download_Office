@@ -1,0 +1,15 @@
+<Configuration>
+    <Add OfficeClientEdition="64" Channel="PerpetualVL2021">
+        <Product ID="ProPlus2021Volume">
+            <Language ID="ru-RU" />
+            <ExcludeApp ID="Lync" />
+        </Product>
+        <Product ID="Visio2021Volume">
+            <Language ID="ru-RU" />
+        </Product>
+        <Product ID="ProjectPro2021Volume">
+            <Language ID="ru-RU" />
+        </Product>
+    </Add>
+    <Remove All="True" />
+</Configuration>
