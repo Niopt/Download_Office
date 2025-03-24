@@ -30,6 +30,3 @@ Done! It should now work.
 Notes:
 Replace "Copied_Path" with the actual path to your files.
 
-Be cautious when running scripts from the internet (irm = Invoke-RestMethod). Ensure the source is trusted.
-
-Let me know if you need any modifications!
